@@ -1,0 +1,23 @@
+/* td {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+} */
+
+.cell {
+  background-color: blue;
+  height: 50px;
+  width: 50px;
+}
+
+/* table {
+    border: solid 1px black;
+} */
+
+#board {
+    border: solid 5px black;
+}
+
+.cell.on {
+  background-color: tomato;
+}
